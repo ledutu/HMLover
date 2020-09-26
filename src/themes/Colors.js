@@ -1,6 +1,5 @@
 const colors = {
   bgBody: '#F2F2F2',
-  main: '#e83941',
   mainLight: 'rgb(52, 227, 255)',
   secondary: '#fdd300',
   waiting: '#F0AD4E',
@@ -9,7 +8,6 @@ const colors = {
   danger: '#e83941',
   warning: '#f69d42',
   info: 'rgb(3, 112, 238)',
-  blue: '#24A0ED',
   light: 'rgb(245, 245, 245)', 
   dark: 'rgb(52, 58, 64)',
 
@@ -25,6 +23,14 @@ const colors = {
 
   grey500: '#f9f9f9', //background Icon, Btn
   redButton: '#C31A1A',
+
+  blue: '#0275d8',
+  green: '#5cb85c',
+  lightBlue: '	#5bc0de',
+  orrange: '#f0ad4e',
+  main: '#d9534f',
+  black200: '#292b2c',
+  white200: '#f7f7f7'
 };
 
 export default colors;

@@ -14,7 +14,7 @@ const metrics = {
   iconMedium: 40,
   
   buttonMedium: 40,
-  textInput: 50,
+  textInput: 40,
   radiusExtra: 24,
   radius: 8,
   radiusLight: 3,
